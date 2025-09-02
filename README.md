@@ -1,5 +1,5 @@
 # EXPERIMENT – 3: Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### NAME: DIVYA 
+### NAME: DIVYA A
 ### Register No: 212222230034
 
 ## Aim: 
