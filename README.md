@@ -81,7 +81,9 @@ Each scenario was tested with all three prompting techniques. The chatbot's resp
 
 ## Evaluation and Observations:
 •	Straightforward Prompting was very effective for direct questions like order status or simple return policies.
+
 •	Tabular Prompting gave the clearest outputs when the user needed detailed or structured info, like troubleshooting steps or multiple orders.
+
 •	Preceding Question Prompting created the best customer experience, allowing dynamic conversations that adapted based on user answers.
 
 Thus, combining different prompting styles allows the chatbot to be both efficient and user-friendly.
