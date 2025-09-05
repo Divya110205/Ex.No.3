@@ -6,7 +6,7 @@
 To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 1 with Straightforward Prompts, Tabular Format Prompting and Preceding Question Prompting
 
 ## Procedure:
-1.	Define the Scenario and Use Case:
+1.Define the Scenario and Use Case:
 Scenario:
 The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
 Target Audience:
@@ -20,7 +20,7 @@ Main Objectives:
 •	Enable real-time monitoring and remote control of manufacturing systems.
 •	Reduce energy consumption by optimizing processes.
  
-2.	Identify Prompt Patterns for Each Design Aspect:
+2.Identify Prompt Patterns for Each Design Aspect:
 Idea Generation Prompts:
 
 •	Prompt: “What features can be incorporated into the automation system to optimize production and reduce downtime?” Generated Ideas:
