@@ -89,6 +89,4 @@ Thus, combining different prompting styles allows the chatbot to be both efficie
 Thus, by applying Straightforward Prompting, Tabular Format Prompting, and Preceding Question Prompting techniques, the AI-powered chatbot was able to efficiently resolve various types of customer queries while maintaining a conversational, clear, and organized tone.
 Different types of prompts handled different scenarios better, improving overall support effectiveness.
 
-## Result:
-Thus, the prompts were designed and executed successfully.
-The chatbot demonstrated the ability to handle troubleshooting, order tracking, and general inquiries using a mix of Straightforward, Tabular, and Preceding Question Prompting strategies, thereby enhancing customer service experience.
+# Result: Thus the Prompts were exected succcessfully.
